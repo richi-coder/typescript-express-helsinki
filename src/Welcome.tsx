@@ -5,10 +5,9 @@ interface WelcomeProps {
 }
 
 const Welcome: React.FC<WelcomeProps> = (props) => {
-  console.log(process.env.MY_KEY);
   return (
     <>
-    <div>{process.env.MY_KEY}</div>
+    <div>{process.env.CLAVE}</div>
     <div>Welcome {props.name}</div>
     </>
   )
