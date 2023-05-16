@@ -1,4 +1,0 @@
-name: richiCoder Workflow
-  run-name: workflow frontend 
-
-with: CLAVE: ${{secrets.CLAVE}}
