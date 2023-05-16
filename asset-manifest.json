@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.e5f7cf4b.js",
-    "static/js/787.f756d8f5.chunk.js": "/static/js/787.f756d8f5.chunk.js",
-    "index.html": "/index.html",
-    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.e5f7cf4b.js.map": "/static/js/main.e5f7cf4b.js.map",
-    "787.f756d8f5.chunk.js.map": "/static/js/787.f756d8f5.chunk.js.map"
+    "main.css": "/typescript-react-helsinki/static/css/main.073c9b0a.css",
+    "main.js": "/typescript-react-helsinki/static/js/main.78fce3c6.js",
+    "static/js/787.f756d8f5.chunk.js": "/typescript-react-helsinki/static/js/787.f756d8f5.chunk.js",
+    "index.html": "/typescript-react-helsinki/index.html",
+    "main.073c9b0a.css.map": "/typescript-react-helsinki/static/css/main.073c9b0a.css.map",
+    "main.78fce3c6.js.map": "/typescript-react-helsinki/static/js/main.78fce3c6.js.map",
+    "787.f756d8f5.chunk.js.map": "/typescript-react-helsinki/static/js/787.f756d8f5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.e5f7cf4b.js"
+    "static/js/main.78fce3c6.js"
   ]
 }
