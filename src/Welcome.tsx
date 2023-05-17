@@ -1,4 +1,6 @@
 import React from 'react';
+import * as dotenv from 'dotenv'
+dotenv.config()
 
 interface WelcomeProps {
   name: string
@@ -8,7 +10,7 @@ interface WelcomeProps {
 const Welcome: React.FC<WelcomeProps> = (props) => {
   return (
     <>
-    <div>{process.env.CLAVE}</div>
+    <div>{process.env.ENV_CLAVE}</div>
     <div>Welcome {props.name}</div>
     </>
   )
