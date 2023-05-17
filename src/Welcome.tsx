@@ -11,6 +11,7 @@ const Welcome: React.FC<WelcomeProps> = (props) => {
   return (
     <>
     <div>{process.env.ENV_CLAVE}</div>
+    <div>{process.env.CLAVE}</div>
     <div>Welcome {props.name}</div>
     </>
   )
